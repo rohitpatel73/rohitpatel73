@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently Third yr student at MITS Gwalior CS'25.
+- 🔭 I’m currently Final yr student at MITS Gwalior CS'25.
 - 📫 How to reach me: rohitpatelmankari@gmail.com
 <!--
 **rohitpatel73/rohitpatel73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
